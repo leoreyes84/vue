@@ -1,7 +1,7 @@
 import type { GIFResponse } from "../interfaces/gif.response";
 
 
-const apiKey = 'Zg4OWyraUMZyEM1zo37sY9MVbnytKMkw';
+const apiKey = ''; //TODO here secret key
 
 
 fetch(`https://api.giphy.com/v1/gifs/random?api_key=${apiKey}`)

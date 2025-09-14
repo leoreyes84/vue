@@ -2,7 +2,7 @@ import axios from "axios";
 import type { GIFResponse } from "../interfaces/gif.response";
  'axios';
 
-const apiKey = 'Zg4OWyraUMZyEM1zo37sY9MVbnytKMkw';
+const apiKey = ''; //TODO here secret key
 
 
 //axios.get
