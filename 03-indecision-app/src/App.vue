@@ -1,4 +1,12 @@
 <template>
+  <IndecisionView />
+</template>
+
+<script setup lang="ts">
+import IndecisionView from './views/IndecisionView.vue'
+</script>
+
+<!-- <template>
   <h1 class="text-3xl font-bold underline">Hello world!</h1>
   <hr />
 
@@ -11,4 +19,4 @@
 import MyCounter from './components/MyCounter.vue'
 import MyCounterScript from './components/MyCounterScript.vue'
 import MyCounterScript2 from './components/my-counter-script/MyCounterScript2.vue'
-</script>
+</script> -->
